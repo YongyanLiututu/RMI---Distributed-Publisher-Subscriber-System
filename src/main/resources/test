@@ -1,0 +1,33 @@
+java -jar DictionaryClient.jar localhost 90
+
+
+java -jar DictionaryServer.jar 90 dictionary.json
+
+
+create 101 Sports1
+create 102 Sports2
+create 103 Sports3
+create 104 Sports4
+create 105 Sports5
+create 106 Sports6
+create 107 Sports7
+create 108 Sports8
+create 109 Sports9
+delete 101
+
+publish 101 "The football match starts at 5 PM today.1"
+publish 102 "The football match starts at 5 PM today.2"
+publish 103 "The football match starts at 5 PM today.3"
+publish 104 "The football match starts at 5 PM today.4"
+publish 105 "The football match starts at 5 PM today.5"
+publish 106 "The football match starts at 5 PM today.6"
+publish 107 "The football match starts at 5 PM today.7"
+publish 108 "The football match starts at 5 PM today.8"
+publish 109 "The football match starts at 5 PM today.999"
+publish 103
+
+show
+
+sub 102
+sub 101
+unsub 101

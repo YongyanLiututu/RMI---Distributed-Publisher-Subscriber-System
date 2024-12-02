@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="S" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff7d87d3-857b-405e-af77-cc94b60d8711" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="UML Sequence" />
+        <option value="UML Use Case" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleUserHome" value="$PROJECT_DIR$/../../../../../developE/apache-maven-3.8.4-bin/apache-maven-3.8.4/repository" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/dictionary2.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$PROJECT_DIR$/../../../../../developE/apache-maven-3.8.4-bin/apache-maven-3.8.4" />
+        <option name="localRepository" value="E:\developE\apache-maven-3.8.4-bin\apache-maven-3.8.4\repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="E:\developE\apache-maven-3.8.4-bin\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2l5pkktiTZr2479BxGDFrwlHCoP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultPlantUmlFileTemplate": "UML Use Case",
+    "JAR 应用程序.maven_project.jar.executor": "Run",
+    "JAR 应用程序.sever.jar.executor": "Run",
+    "JUnit.ClientTest.executor": "Run",
+    "JUnit.ClientTest1.executor": "Run",
+    "JUnit.ClientTest1.testUserLogin.executor": "Run",
+    "JUnit.LoginFrameTest (1).executor": "Run",
+    "JUnit.LoginFrameTest.executor": "Run",
+    "JUnit.LoginFrameTest.testEmptyUsernameOrPassword.executor": "Run",
+    "JUnit.LoginFrameTest.testLoginSuccessForClient.executor": "Run",
+    "JUnit.ServerTest.executor": "Run",
+    "JUnit.ServerTest.testServerStartup.executor": "Run",
+    "Maven.maven_project [-Dtest=NOT_RESOLVED...].executor": "Run",
+    "Maven.maven_project [clean].executor": "Run",
+    "Maven.maven_project [test].executor": "Run",
+    "Maven.maven_project.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/java/maven_project_tutu10.10最后/Yongyan",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.mocha.mocha_node_package_dir": "",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Broker.executor": "Run",
+    "应用程序.Broker1.executor": "Run",
+    "应用程序.Broker2.executor": "Run",
+    "应用程序.Broker9017.executor": "Run",
+    "应用程序.Client_Main_GUI (1).executor": "Run",
+    "应用程序.Client_Main_GUI (2).executor": "Run",
+    "应用程序.Client_Main_GUI.executor": "Run",
+    "应用程序.Directory.executor": "Run",
+    "应用程序.DirectoryService.executor": "Run",
+    "应用程序.DirectoryService9016.executor": "Run",
+    "应用程序.HelloMaven.executor": "Run",
+    "应用程序.LoginFrame.executor": "Run",
+    "应用程序.Publisher.executor": "Run",
+    "应用程序.Publisher1.executor": "Run",
+    "应用程序.Publisher2.executor": "Run",
+    "应用程序.Publisher3.executor": "Run",
+    "应用程序.Publisher4.executor": "Run",
+    "应用程序.Publisher5.executor": "Run",
+    "应用程序.Server.executor": "Run",
+    "应用程序.Server_main.executor": "Run",
+    "应用程序.Subscriber.executor": "Run",
+    "应用程序.Subscriber1.executor": "Run",
+    "应用程序.Subscriber2.executor": "Run",
+    "应用程序.Subscriber3.executor": "Run",
+    "应用程序.Subscriber4.executor": "Run"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Distributed Systems (COMP90015)\A2\maven_project_tutu\maven_project_tutu\src\main\resources" />
+      <recent name="E:\Distributed Systems (COMP90015)\A2\maven_project01\maven_project01\src\main\java\tutu" />
+      <recent name="E:\Distributed Systems (COMP90015)\A2\maven_project01\maven_project01\src\main\java" />
+      <recent name="E:\Distributed Systems (COMP90015)\A1\xuhao\maven\maven_project\src\main\resources" />
+      <recent name="E:\Distributed Systems (COMP90015)\A1\xuhao\maven\maven_project\src\main\java\server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Distributed Systems (COMP90015)\A1\xuhao\maven\maven_project\src\main\java" />
+      <recent name="E:\Distributed Systems (COMP90015)\A1\xuhao\maven\maven_project\src\main" />
+      <recent name="E:\Distributed Systems (COMP90015)\A1\xuhao\maven\maven_project\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Publisher3">
+    <configuration name="Broker1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Broker" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="9017 127.0.0.1 8888 broker1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Broker2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Broker" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="9016 127.0.0.1 8888 broker2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Directory" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Directory" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Publisher1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Publisher" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="p1 127.0.0.1 8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Publisher2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Publisher" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="p2 127.0.0.1 8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Publisher3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Publisher" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="p3 127.0.0.1 8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Publisher4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Publisher" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="p4 127.0.0.1 8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Publisher5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Publisher" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="p5 127.0.0.1 8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subscriber1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Subscriber" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="s1 127.0.0.1 8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subscriber2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Subscriber" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="s2 127.0.0.1 8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subscriber3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Subscriber" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="s3 127.0.0.1 8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subscriber4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Subscriber" />
+      <module name="CV_Assignment2" />
+      <option name="PROGRAM_PARAMETERS" value="s4 127.0.0.1 8888" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="本地测试1" type="CompoundRunConfigurationType">
+      <toRun name="Broker2" type="Application" />
+      <toRun name="Directory" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="远程测试1" type="CompoundRunConfigurationType">
+      <toRun name="Broker1" type="Application" />
+      <toRun name="Broker2" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="远程测试1" type="CompoundRunConfigurationType">
+      <toRun name="Broker1" type="Application" />
+      <toRun name="Broker2" type="Application" />
+      <toRun name="DirectoryService" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="远程测试1" type="CompoundRunConfigurationType">
+      <toRun name="Broker1" type="Application" />
+      <toRun name="Broker2" type="Application" />
+      <toRun name="DirectoryService" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="远程测试1" type="CompoundRunConfigurationType">
+      <toRun name="Broker1" type="Application" />
+      <toRun name="Broker2" type="Application" />
+      <toRun name="Directory" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="远程测试1" type="CompoundRunConfigurationType">
+      <toRun name="Broker1" type="Application" />
+      <toRun name="Broker2" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="本地测试2 启动pub，sub" type="CompoundRunConfigurationType">
+      <toRun name="Publisher2" type="Application" />
+      <toRun name="Subscriber1" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="远程测试2" type="CompoundRunConfigurationType">
+      <toRun name="Publisher1" type="Application" />
+      <toRun name="Publisher2" type="Application" />
+      <toRun name="Subscriber1" type="Application" />
+      <toRun name="Subscriber2" type="Application" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="复合.本地测试2 启动pub，sub" />
+      <item itemvalue="复合.远程测试2" />
+      <item itemvalue="复合.本地测试1" />
+      <item itemvalue="应用程序.Directory" />
+      <item itemvalue="应用程序.Broker2" />
+      <item itemvalue="应用程序.Subscriber2" />
+      <item itemvalue="应用程序.Subscriber3" />
+      <item itemvalue="应用程序.Publisher2" />
+      <item itemvalue="应用程序.Publisher3" />
+      <item itemvalue="应用程序.Publisher4" />
+      <item itemvalue="应用程序.Publisher5" />
+      <item itemvalue="应用程序.Subscriber1" />
+      <item itemvalue="应用程序.Subscriber4" />
+      <item itemvalue="应用程序.Publisher1" />
+      <item itemvalue="应用程序.Broker1" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ff7d87d3-857b-405e-af77-cc94b60d8711" name="更改" comment="" />
+      <created>1724479936758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724479936758</updated>
+      <workItem from="1724479938263" duration="1372000" />
+      <workItem from="1724593308637" duration="1823000" />
+      <workItem from="1724639108442" duration="19808000" />
+      <workItem from="1724726238988" duration="7786000" />
+      <workItem from="1724742318482" duration="16233000" />
+      <workItem from="1724811161860" duration="17777000" />
+      <workItem from="1727449966900" duration="1432000" />
+      <workItem from="1727493784922" duration="2176000" />
+      <workItem from="1727958051536" duration="5964000" />
+      <workItem from="1728018598866" duration="5100000" />
+      <workItem from="1728026948108" duration="3693000" />
+      <workItem from="1728094622063" duration="1324000" />
+      <workItem from="1728178904571" duration="1707000" />
+      <workItem from="1728304344218" duration="5518000" />
+      <workItem from="1728366962569" duration="16008000" />
+      <workItem from="1728390301730" duration="1142000" />
+      <workItem from="1728419377450" duration="1084000" />
+      <workItem from="1728455265188" duration="2684000" />
+      <workItem from="1728459024860" duration="2847000" />
+      <workItem from="1728463826728" duration="12682000" />
+      <workItem from="1728532200220" duration="3815000" />
+      <workItem from="1728536957498" duration="3772000" />
+      <workItem from="1728541317580" duration="467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/HelloMaven.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/subscriber/Subscriber.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/subscriber/Subscriber.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Broker.java</url>
+          <line>738</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Broker.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Broker.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Broker.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Broker.java</url>
+          <line>421</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Broker.java</url>
+          <line>424</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Broker.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Broker.java</url>
+          <line>624</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Broker.java</url>
+          <line>627</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Broker.java</url>
+          <line>511</line>
+          <properties class="Broker">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.rmi.RemoteException" package="java.rmi" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
